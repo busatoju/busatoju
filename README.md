@@ -7,7 +7,7 @@
 <h3 align="center"> Mobile developer and student of Computer Science at FAESA. </h3>
 
 
-  
+  <div align="left">  
   <a href="https://github.com/busatoju" alt="github" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
   </a>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:busatoju@gmail.com" />
   </a>
 
-
+</div>  
 <a href="https://github.com/busatoju/busatoju">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=busatoju&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21&hide=contribs,issues,prs"/>
 </a>
