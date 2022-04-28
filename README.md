@@ -21,8 +21,12 @@
   </a>
 </div>
 
+<a href="https://github.com/busatoju/busatoju">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=busatoju&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21&hide=contribs,issues,prs"/>
+</a>
+
 <h3 align="left"> :man_technologist:&nbsp;About me:</h3>
-I'm a mobile development student, I'm studying Computer Science at FAESA and I'm looking for an opportunity to enter the job market as developer.
+My name is Juliana, I'm a mobile developer and currently live in Brazil and I stury Computer Science at FAESA. 
 
 
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
