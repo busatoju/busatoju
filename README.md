@@ -26,7 +26,7 @@
 </a>
 
 <h3 align="left"> :man_technologist:&nbsp;About me:</h3>
-My name is Juliana, I'm a mobile developer and currently live in Brazil and I stury Computer Science at FAESA. 
+My name is Juliana, I'm a mobile developer and currently live in Brazil and I study Computer Science at FAESA. 
 
 
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
