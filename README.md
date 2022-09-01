@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center"> Hi there 👋, nice to meet you here.</h1>
-<h3 align="center"> Mobile developer and student of Computer Science at FAESA. </h3>
+<h3 align="center"> Mobile developer</h3>
 
 
   <div align="left">  
